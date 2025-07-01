@@ -1,5 +1,3 @@
 # GItPractice
 
-## hello
-
-### git issue test
+안녕
